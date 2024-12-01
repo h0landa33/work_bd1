@@ -8,9 +8,17 @@ O projeto envolve a criação de um banco de dados relacional para gerenciar um 
 
 Estrutura do Repositório
 Contém o modelo conceitual , lógico e físico de um banco de dados . 
-Contém os scripts SQL utilizados para criar, popular e manipular o banco de dados.
+Contém os scripts SQL utilizados para selects ,updates , deletes , joins , triggers e procedures . 
 
-Modelo Conceitual e Modelo Lógico : 
+Tecnologias utilizadas : 
+
+•	Docker 
+•	PostgreSql
+•	pgAdmin
+
+
+
+Modelo Conceitual, lógico e físico.  
 
 
 ![ModeloLogicoFisico drawio (1)_page-0001](https://github.com/user-attachments/assets/3ceb3b62-7357-4f16-afd8-f18fdeb89386)
