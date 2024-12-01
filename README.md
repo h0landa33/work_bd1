@@ -23,3 +23,11 @@ Modelo Conceitual, lógico e físico.
 
 ![ModeloLogicoFisico drawio (1)_page-0001](https://github.com/user-attachments/assets/3ceb3b62-7357-4f16-afd8-f18fdeb89386)
 
+
+![tablecliente](https://github.com/user-attachments/assets/bc7269d6-0535-45bb-9b33-2b90fb798df1)
+![tabelavendcontato](https://github.com/user-attachments/assets/a08b743a-49ec-4ca0-843b-0061a2b681a1)
+
+![vendacontatocliente](https://github.com/user-attachments/assets/1a905b8d-5da4-4459-a285-b6f4be885532)
+![produtoorcamento](https://github.com/user-attachments/assets/3cbb30f5-7f83-460d-ba0c-481ff2c19071)
+
+
