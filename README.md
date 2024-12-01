@@ -1,4 +1,4 @@
 # work_bd1
 
+![ModeloLogicoFisico drawio (1)_page-0001](https://github.com/user-attachments/assets/3ceb3b62-7357-4f16-afd8-f18fdeb89386)
 
-https://github.com/h0landa33/work_bd1/issues/1#issue-2709684374
