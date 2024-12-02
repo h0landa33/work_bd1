@@ -30,4 +30,8 @@ Modelo Conceitual, lógico e físico.
 ![vendacontatocliente](https://github.com/user-attachments/assets/1a905b8d-5da4-4459-a285-b6f4be885532)
 ![produtoorcamento](https://github.com/user-attachments/assets/3cbb30f5-7f83-460d-ba0c-481ff2c19071)
 
+![populandobc1](https://github.com/user-attachments/assets/3ba42c4b-c8e6-4501-bc66-186825c5a4b4)
+![populandobc2](https://github.com/user-attachments/assets/1f61ed16-32e4-4b69-b053-af35f53c3551)
+![populandobc3](https://github.com/user-attachments/assets/05b0329c-336b-4de2-9059-0bf614894df6)
+![populandobc4](https://github.com/user-attachments/assets/7bf66716-9a3f-435e-946a-8a4f111c056d)
 
